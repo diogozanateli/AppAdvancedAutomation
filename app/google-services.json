@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "439385900726",
+    "firebase_url": "https://innate-booking-417617-default-rtdb.firebaseio.com",
+    "project_id": "innate-booking-417617",
+    "storage_bucket": "innate-booking-417617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439385900726:android:6862d19752124c76910817",
+        "android_client_info": {
+          "package_name": "com.example.advancedautomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVxLtGIsK_mkSnmSNP9miNyZudA3LWcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
